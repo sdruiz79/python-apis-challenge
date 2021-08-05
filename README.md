@@ -1,2 +1,2 @@
-# Pythin API's Challenge
+# Python API's Challenge
 API Assignment
